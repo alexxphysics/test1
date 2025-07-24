@@ -1,2 +1,2 @@
-str = 'test 1'
+str = 'test 1 upd'
 print(str)
